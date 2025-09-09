@@ -40,7 +40,8 @@
   </section>
 
   <!-- MAIN LAYOUT -->
-  <main id="plants" class="max-w-7xl mx-auto py-10 px-4 grid grid-cols-1 md:grid-cols-4 gap-6">
+   <h2 class="text-3xl font-bold mb-4 text-center pt-13">Choose Your Trees</h2>
+  <main id="plants" class="max-w-8xl mx-auto py-10 px-4 grid grid-cols-1 md:grid-cols-4 gap-6">
 
     <!-- Categories -->
     <aside class="bg-white shadow rounded p-4">
@@ -52,7 +53,6 @@
 
     <!-- Cards -->
     <section class="md:col-span-2">
-      <h2 class="text-xl font-semibold mb-4 text-center">Choose Your Trees</h2>
       <div id="spinner" class="justify-center my-6 hidden">
         <span class="loading loading-spinner text-success"></span>
       </div>
@@ -95,18 +95,19 @@
   </section>
    <section>
      <!-- IMPACT -->
-  <section id="impact" class="py-15 bg-green-100 md:h-[300px]">
+  <section id="impact" class="py-10 bg-green-100 ">
     <h2 class="text-center text-2xl font-bold mb-6 text-green-900">Our Impact</h2>
-    <div class="max-w-[1500px] mx-auto grid grid-cols-1 sm:grid-cols-3 gap-10">
-      <div class="card bg-white shadow p-6 text-center">
+   <div class="md:max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+
+      <div class="card bg-white shadow p-7 text-center">
         <h3 class="text-3xl font-bold"> 500K+</h3>
         <p>Trees planted</p>
       </div>
-      <div class="card bg-white shadow p-6 text-center">
+      <div class="card bg-white shadow p-7 text-center">
         <h3 class="text-3xl font-bold">120+</h3>
         <p>Communities helped</p>
       </div>
-      <div class="card bg-white shadow p-6 text-center">
+      <div class="card bg-white shadow p-7 text-center">
         <h3 class="text-3xl font-bold">36+</h3>
         <p>Volunteer programs</p>
       </div>
@@ -134,13 +135,17 @@
         class="w-full px-4 py-2 rounded bg-white text-black border border-gray-300 focus:outline-none focus:ring-2 focus:ring-yellow-400" 
         required 
       />
-      <input 
-        id="donor-count" 
-        type="number" 
-        placeholder="Number of Trees" 
-        class="w-full px-4 py-2 rounded bg-white text-black border border-gray-300 focus:outline-none focus:ring-2 focus:ring-yellow-400" 
-        required 
-      />
+    <select 
+  id="donor-count" 
+  class="w-full px-4 py-2 rounded bg-white text-black border border-gray-300 focus:outline-none focus:ring-2 focus:ring-yellow-400" 
+  required
+>
+  <option value=""> Number of Trees</option>
+  <option value="5">5 - $5</option>
+  <option value="10">10 - $10</option>
+  <option value="20">20 - $20</option>
+</select>
+
       <button 
         type="submit" 
         class="w-full bg-[#FACC15] text-[#15803D] px-4 py-2 font-medium rounded-full hover:bg-yellow-500">
