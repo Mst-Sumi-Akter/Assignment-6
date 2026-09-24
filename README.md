@@ -82,7 +82,7 @@ https://openapi.programming-hero.com/api/plant/1
 - Website must be **mobile responsive**  
 
 ---
-#### 7) Create a README file to answer the following question-
+#### 7) Create a README file to answer the following questions-
 
 
 #### 1) What is the difference between var, let, and const?
@@ -128,14 +128,14 @@ Clicking a tree name on a card opens a modal with full tree details.
 
 
     1) Add to Cart 
-    Clicking Add to Cart: - Adds the tree to Cart List
+    Clicking Add to Cart: - Adds the tree to the Cart List
                           - Shows tree name 
 
     2) Total Calculation 
-    Calculate total price of trees in cart.
+    Calculate the total price of trees in the cart.
 
     3) Remove from Cart 
-    Clicking ❌ removes tree and deducts price from total.
+    Clicking ❌ removes the tree and deducts the price from the total.
 
     4) Loading Spinner
     Show spinner while data is loading.
