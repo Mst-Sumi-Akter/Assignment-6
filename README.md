@@ -1,4 +1,4 @@
-## WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-006
+## WELCOME TO ASSIGNMENT-006
 
 ### 📅 Deadline For 60 marks: 9th September, 2025 (11:59 pm ⏱️)
 
