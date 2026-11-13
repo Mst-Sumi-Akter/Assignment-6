@@ -1,4 +1,4 @@
-## WELCOME TO ASSIGNMENT-006
+## WELCOME TO ASSIGNMENT-6
 
 ### 📅 Deadline For 60 marks: 9th September, 2025 (11:59 pm ⏱️)
 
@@ -50,7 +50,6 @@ https://openapi.programming-hero.com/api/plant/${id}
 https://openapi.programming-hero.com/api/plant/1
 ```
 ---
-
 
 
 
@@ -157,8 +156,6 @@ Clicking a tree name on a card opens a modal with full tree details.
 ✅ At least 5 meaningful commits
 
 ❌ No dummy text or Lorem Ipsum — must use relevant content
-
-
 
 
 
