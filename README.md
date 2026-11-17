@@ -3,11 +3,11 @@
 # Green Earth
 
 
-## Private Repository: https://classroom.github.com/a/nVZrg5R9 
+### Private Repository: https://classroom.github.com/a/nVZrg5R9 
 
-## Alternative Private Repository: https://classroom.github.com/a/KCGI14ST 
+### Alternative Private Repository: https://classroom.github.com/a/KCGI14ST 
 
-## Alternative Private Repository: https://classroom.github.com/a/JMuIYqgK 
+### Alternative Private Repository: https://classroom.github.com/a/JMuIYqgK 
 
 
 ---
