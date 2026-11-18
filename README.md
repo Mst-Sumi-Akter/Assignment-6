@@ -1,6 +1,6 @@
 ## WELCOME TO ASSIGNMENT - 6
 
-# Green Earth
+# Green Earth 🌴
 
 
 ### Private Repository: https://classroom.github.com/a/nVZrg5R9 
@@ -8,7 +8,6 @@
 ### Alternative Private Repository: https://classroom.github.com/a/KCGI14ST 
 
 ### Alternative Private Repository: https://classroom.github.com/a/JMuIYqgK 
-
 
 ---
 🌴 API Endpoints
@@ -22,8 +21,6 @@ https://openapi.programming-hero.com/api/plants
 ```bash
 https://openapi.programming-hero.com/api/categories
 ```
-
-
 3. Get 🌴plants by categories <br/>
 ```bash
 https://openapi.programming-hero.com/api/category/${id}
@@ -43,8 +40,6 @@ https://openapi.programming-hero.com/api/plant/${id}
 https://openapi.programming-hero.com/api/plant/1
 ```
 ---
-
-
 
 ## ✅ Main Requirements 
 
@@ -75,7 +70,6 @@ https://openapi.programming-hero.com/api/plant/1
 
 ---
 #### 7) Create a README file to answer the following questions-
-
 
 #### 1) What is the difference between var, let, and const?
 
@@ -136,7 +130,6 @@ Clicking a tree name on a card opens a modal with full tree details.
     Highlight active category button when selected.
 
 
-
 🧰 Technology Stack:
         
         HTML
@@ -149,7 +142,6 @@ Clicking a tree name on a card opens a modal with full tree details.
 ✅ At least 5 meaningful commits
 
 ❌ No dummy text or Lorem Ipsum — must use relevant content
-
 
 
 ## 🔗 Submission
